@@ -4,7 +4,7 @@ homepage: https://ferrygraphql.com/
 description: A strongly typed execution interface for GraphQL operations
 repository: https://github.com/gql-dart/ferry
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
 dependencies:
   gql: ^0.13.0
   gql_exec: ^0.4.0
@@ -16,7 +16,7 @@ dependencies:
   built_value: ^8.1.2
 dev_dependencies:
   test: ^1.16.8
-  pedantic: ^1.11.0
+  lints: ^2.0.0
   ferry_test_graphql: ^0.1.5-dev.3
   build_runner: ^2.1.1
   built_value_generator: ^8.1.1

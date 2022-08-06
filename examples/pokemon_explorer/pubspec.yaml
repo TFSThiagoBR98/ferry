@@ -1,7 +1,7 @@
 name: pokemon_explorer
 version: 0.0.3-dev.3
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
 dependencies:
   gql_link: ^0.4.0-nullsafety.3
   gql_http_link: ^0.4.0-nullsafety.1
